@@ -12,7 +12,7 @@ Hi,I'm byx020119,a IoT Engineering student from USTB📕.
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Neural Networks and Computer Vision.
-- 📫
+- 📫Please contact me via email byx020119@foxmail.com.
 
 
 ## 
@@ -20,6 +20,6 @@ Hi,I'm byx020119,a IoT Engineering student from USTB📕.
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byx020119&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA0NDUzODcsMTcwMDgzNDgyMCwtMz
-UyMjkyNTEyLC00MTIxNzMzMDcsLTcyOTEzOTgzOF19
+eyJoaXN0b3J5IjpbMjEwNDE0ODUyLDE3MDA4MzQ4MjAsLTM1Mj
+I5MjUxMiwtNDEyMTczMzA3LC03MjkxMzk4MzhdfQ==
 -->
