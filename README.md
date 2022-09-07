@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byx020119)](https://github.com/anuraghazra/github-readme-stats)
-
+## 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byx020119&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MTA0MjMsMTcwMDgzNDgyMCwtMzUyMj
-kyNTEyLC00MTIxNzMzMDcsLTcyOTEzOTgzOF19
+eyJoaXN0b3J5IjpbMTkzMDY0OTc1MCwxNzAwODM0ODIwLC0zNT
+IyOTI1MTIsLTQxMjE3MzMwNywtNzI5MTM5ODM4XX0=
 -->
