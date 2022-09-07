@@ -1,4 +1,4 @@
-### Hi there 👋
+###Welcome to  👋
 
 <!--
 **byx020119/byx020119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/byx020119?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Etc%2FGMT-8)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byx020119)](https://github.com/anuraghazra/github-readme-stats)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDgzNDgyMCwtMzUyMjkyNTEyLC00MT
-IxNzMzMDcsLTcyOTEzOTgzOF19
+eyJoaXN0b3J5IjpbMTQzNjE0NzUzNCwxNzAwODM0ODIwLC0zNT
+IyOTI1MTIsLTQxMjE3MzMwNywtNzI5MTM5ODM4XX0=
 -->
