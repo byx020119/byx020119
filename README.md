@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```mark```
 ![Metrics](https://metrics.lecoq.io/byx020119?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Etc%2FGMT-8)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Nzc1NDE5LC00MTIxNzMzMDcsLTcyOT
+eyJoaXN0b3J5IjpbNzM4ODgyMzA0LC00MTIxNzMzMDcsLTcyOT
 EzOTgzOF19
 -->
