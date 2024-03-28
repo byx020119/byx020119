@@ -16,6 +16,11 @@ Hi,I'm byx020119,a IoT Engineering student from USTB📕.
 - 🌱 I am currently studying AI-related content, specifically focusing on the perception aspect in autonomous driving technology.
 - 📫 Please contact me via email byx020119@foxmail.com.
 - 👯 In my spare time, aside from the focus on autonomous driving, I also have an interest in Go engines such as KataGo. If you share this enthusiasm, feel free to reach out to me for discussion or exchange on the topic.
+
+Aside from email, you can also contact me through the following ways:
+- WeChat:byxbaiyu
+- Twitter:BaiYu0119
+
 ## 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byx020119)](https://github.com/anuraghazra/github-readme-stats)
