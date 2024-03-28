@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Hi,I'm byx020119,a IoT Engineering student from USTB📕.
+Hi,I'm BaiYu,a IoT Engineering student from USTB📕.
 
 <!--
 - 🔭 I’m currently working on Neural Networks and Computer Vision.
