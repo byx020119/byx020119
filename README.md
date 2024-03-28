@@ -18,8 +18,8 @@ Hi,I'm BaiYu,a IoT Engineering student from USTB📕.
 - 👯 In my spare time, aside from the focus on autonomous driving, I also have an interest in Go engines such as KataGo. If you share this enthusiasm, feel free to reach out to me for discussion or exchange on the topic.
 
 Aside from email, you can also contact me through the following ways:
-- WeChat:byxbaiyu
-- Twitter:BaiYu0119
+- WeChat: byxbaiyu
+- Twitter: BaiYu0119
 
 ## 
 <!--
