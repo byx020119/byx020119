@@ -11,8 +11,9 @@ Hi,I'm BaiYu,a IoT Engineering student from USTB📕.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
  ![](https://github.com/byx020119/byx020119/blob/main/source/picture.gif?raw=true)
+ -->
 - 🌱 I am currently studying AI-related content, specifically focusing on the perception aspect in autonomous driving technology.
 - 📫 Please contact me via email byx020119@foxmail.com.
 - 👯 In my spare time, aside from the focus on autonomous driving, I also have an interest in Go engines such as KataGo. If you share this enthusiasm, feel free to reach out to me for discussion or exchange on the topic.
