@@ -33,8 +33,7 @@ Aside from email, you can also contact me through the following ways:
 </picture>
 
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byx020119&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=byx020119)](https://github.com/stats-organization/github-stats-extended)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTE3NTc0OTEyNCwtMTMwNzA5ODI5MCwtNT
 U5NjE2MzYsMTcwMDgzNDgyMCwtMzUyMjkyNTEyLC00MTIxNzMz
